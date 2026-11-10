@@ -1,4 +1,5 @@
 
+
 .footer {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -78,7 +79,7 @@
   background-color: transparent;
   color: #ffffff;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   outline: transparent;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
@@ -90,7 +91,7 @@
 }
 
 .subscribe-input:focus {
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
 .subscribe-button {
@@ -113,7 +114,7 @@
 
 .subscribe-button:hover,
 .subscribe-button:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 
 .subscribe-icon {
